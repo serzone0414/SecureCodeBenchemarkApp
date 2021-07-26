@@ -1,0 +1,8 @@
+﻿Buster,7,Fred
+Butch,5,Jack
+Fluffy,4,Tom
+Champ,10,Lisa
+Dozer,10,Sarah
+Biscuit,11,Sam
+Ash,8,Peter
+Sausage,9,John
