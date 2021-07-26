@@ -14,7 +14,7 @@ namespace SecureCodeBenchemarkApp
 
         public override string ToString()
         {
-            return CreatureName + "Age: " + Age + "(" + Owner + ")";
+            return CreatureName;
         }
 
         public Creature()
