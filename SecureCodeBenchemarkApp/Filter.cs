@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SecureCodeBenchemarkApp
 {
-    class Filter
+    public class Filter
     {
         public List<Creature> SortAZ(List<Creature> clist)
         {

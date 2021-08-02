@@ -7,7 +7,7 @@ using System.IO;
 
 namespace SecureCodeBenchemarkApp
 {
-    class FileManager
+    public class FileManager
     {
         public List<Creature> LoadCreatures()
         {

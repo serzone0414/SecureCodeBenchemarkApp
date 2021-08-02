@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SecureCodeBenchemarkApp
 {
-    class Creature
+    public class Creature
     {
         private string creatureName;
         private int age;
